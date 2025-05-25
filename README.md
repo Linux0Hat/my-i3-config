@@ -31,7 +31,7 @@ Of course! Here's the full list of **keyboard shortcuts (keybindings)** from you
 | Shortcut                | Action                                                   |
 | ----------------------- | -------------------------------------------------------- |
 | `$mod + Escape`         | Lock screen with solid color (`i3lock`)                  |
-| `$mod + Shift + Escape` | Lock screen with a blurred screenshot (`scrot + i3lock`) |
+| `$mod + Shift + Escape` | Transparent lockscreen (`scrot + i3lock`) |
 
 ---
 
